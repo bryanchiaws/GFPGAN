@@ -28,7 +28,7 @@ class GFPGAN():
                  bg_tile=400,
                  only_center_face=None,
                  aligned=None,
-                 weight=0.5,
+                 weight=0,
                  ):
         
         self.version = version
